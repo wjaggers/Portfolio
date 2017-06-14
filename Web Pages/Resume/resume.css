@@ -1,0 +1,58 @@
+
+	body {
+		background-color: #d2d4dc;			
+	}
+
+	.main {
+		max-width: 800px;
+		border:solid 1px #000;
+		padding-left:10px;
+		padding-right:10px;
+		font-size:14pt;
+		background-color: #fff4e6;	
+		margin:10px auto;
+	}
+
+	.name {
+		text-align:center;
+		font-size:30px;
+		font-weight:bold;
+	} 
+
+	.section_head {
+		font-weight:bold;
+		font-size:16px;
+	}
+
+	.contact_info p {
+	padding: 0;
+	margin: 0;
+	line-height: 1.2em;	
+	}
+
+	a {
+		float:right;
+		text-decoration: none;
+	}
+
+	a:link, a:visited {
+		color:#0057e7;
+	}
+
+	a:hover, a:active {
+		color:#cccccc;
+	}
+
+	.suminfo {
+		margin-left:25px;
+	}
+
+.jobtitle {
+		margin-left:25px;
+	}
+
+	li {
+		padding:4px;
+	}
+
+

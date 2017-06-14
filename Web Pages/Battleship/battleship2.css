@@ -1,0 +1,84 @@
+
+				body {
+					background-color: black;
+				}
+
+				#board {
+					position:relative;
+					width: 512px;
+					height:431px;
+					margin: 0 auto;
+					background: url("board3.png") no-repeat;
+				}
+
+				#messageArea {
+					margin: 20px auto;
+					height: 90px;
+					width: 600px;
+					font-size: 22px;
+					font-weight: bold;
+					border: 1px solid;
+					border-color: rgb(83, 175, 19);
+					color: rgb(83,175,19);
+					text-align:center;
+				}
+
+				#messageArea input {
+					background-color: rgb(152, 207, 113);
+					height:30px;
+					font-size: 22px;
+					font-weight: bold;
+					border-radius: 20%;
+				}
+
+				table {
+					position: absolute;
+					left: 87px;
+					top: 50px;
+					border-spacing: 0px;
+				}
+
+				td {
+					width: 46px;
+					height: 46.5px;
+				}
+
+				#guessArea {
+					width: 400px;
+					margin: 20px auto;
+					background-color: rgb(83, 175, 19);	
+					text-align:center;
+				}
+
+				#guessArea input {
+					background-color: rgb(152, 207, 113);
+					border-color: rgb(83,175,119);
+					font-size: 1.5em;
+					text-align:center;
+					display:none;
+				} 
+
+				#guessPrompt {
+					font-size: 20px;
+					display:none;
+					font-weight: bold;
+				}
+
+				#guessInput {
+					display:none;
+					width: 50px;
+					height: 30px;
+				}
+
+				#lockMsg {
+					display:none;
+					text-align:center;
+				}
+
+				.hit {
+					background: url("ship3.png") no-repeat center center;
+				}
+
+				.miss {
+					background: url("miss3.png") no-repeat center center;
+				}

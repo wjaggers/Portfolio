@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Color Mixer</title>
+    <link rel="stylesheet" type="text/css" href="colors.css">
+</head>
+<body>
+
+
+<div id="main">  
+  <h1>Color Mixer</h1>
+  <div id="colorbox"></div>
+  <div id="inputNum">
+  <input type="text" id="colorNum" name="input_num" autofocus placeholder="Enter a hex number" size="15"/>
+  </div>
+    <div id="rgb">   
+      <div id="rgbtop">
+      	<div id="redtop" class="rgb-top"></div>
+      	<div id="greentop" class="rgb-top"></div>
+       <div id="bluetop" class="rgb-top"></div>
+      </div>	
+
+
+      <div id="rgbbot">
+         <div id="redbot" class="rgb-bot"></div>
+         <div id="greenbot" class="rgb-bot"></div>
+         <div id="bluebot" class="rgb-bot"></div>
+      </div>  
+
+
+      <div id="colorcontrols">
+      	<div class="redcontrol rgb-bar">
+      	   	<button id="redup" class="up">+</button>
+        	  <button id="reddown" class="down">-</button>
+       	</div>
+        	<div class="greencontrol rgb-bar">
+        		<button id="greenup" class="up">+</button>
+       	  	<button id="greendown" class="down">-</button> 
+       	</div>
+      	 	<div class="bluecontrol rgb-bar">
+           	 <button id="blueup" class="up">+</button>
+      	   	 <button id="bluedown" class="down">-</button>
+        	</div>
+      </div>
+    </div> 
+</div>
+
+<script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="color.js"></script>
+</body>
+</html>

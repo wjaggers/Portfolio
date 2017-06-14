@@ -1,0 +1,157 @@
+@import url("http://fonts.googleapis.com/css?family=Helvetica:100,300,400,700,900");
+
+html {
+ font-family: Helvetica, sans-serif; 
+}
+
+body {
+  margin: 0;
+  color: #797e83;
+  font-size: 16px;
+  line-height: 1.5; 
+}
+
+#main {
+  margin: 0 auto;
+  width: 960px;
+}
+
+
+h1 {
+  color: #525559;
+  font-weight: 300;
+  font-size: 1.625em;
+  line-height: 1.09524;
+  margin: 0.67em 0; 
+  text-align: center;
+}
+
+#colorbox {
+  height: 100px;
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0px auto;
+}
+
+#inputNum {
+  margin: 10px;
+}
+#colorNum {
+  clear: both;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  margin: 20px auto;
+  text-align: center;
+  padding: 10px;
+}
+
+#rgbtop {
+  margin:  0 auto;
+  width: 336px;
+  text-align: center;
+}
+
+#redtop {
+  height: 255px;
+  width:  60px;
+  border-top: 1px solid red;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
+  float: left;
+  margin: 0 20px;
+}
+
+#greentop {
+  height: 255px;
+  width:  60px;
+  border-top: 1px solid green;
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  float: left;
+  margin: 0 20px;
+}
+#bluetop {
+  height: 255px;
+  width:  60px;
+  border-top: 1px solid blue;
+  border-left: 1px solid blue;
+  border-right: 1px solid blue;
+  float: left;
+  margin: 0 20px;
+}
+
+#rgbbot {
+  clear:both;
+  margin:  0 auto;
+  width: 336px;
+}
+
+#redbot {
+  height: 0px;
+  width:  60px;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
+  float: left;
+  margin: 0 20px;
+  background-color:red;
+}
+
+#greenbot {
+  height: 0px;
+  width:  60px;
+  border-bottom: 1px solid green;
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  float: left;
+  margin: 0 20px;
+  background-color: green;
+}
+
+#bluebot {
+  height: 0px;
+  width:  60px;
+  border-bottom: 1px solid blue;
+  border-left: 1px solid blue;
+  border-right: 1px solid blue;
+  float: left;
+  margin: 0 20px;
+  background-color: blue;
+}
+
+
+#colorcontrols {
+  clear:both;
+  margin:  0 auto;
+  width: 336px;
+}
+
+.up {
+  margin: 10px 10px 0 5px;
+}
+
+.down {
+  margin: 10px 0 0 0;
+}
+
+.redcontrol, .greencontrol, .bluecontrol {
+float: left;
+width: 60px;
+margin: 0 20px;
+}
+
+#redup, #reddown, #greenup, #greendown, #blueup, #bluedown {
+  float: left;
+margin: 10 20px;
+}
+
+
+
+
+
+
+
+

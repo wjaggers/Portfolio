@@ -1,0 +1,89 @@
+[
+{	"location":    "Woods Chapel",
+	"streetAddr":  "917 Woods Chapel Rd",
+	"cityStateZip": "Lee's Summit, MO 64064",
+	"phone":       "(816) 542-2722",
+	"firstItem":   "Mon - Thu 11:00AM - 9:30PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "Sun  11:30AM - 9:00PM",
+	"lat":         38.982498,
+	"long":        -94.358643 },
+
+{	"location":    "Raintree",
+	"streetAddr":  "899 SW LeMans Lane",
+	"cityStateZip": "Lee's Summit, MO 64082",
+	"phone":       "(816) 623-9494",
+	"firstItem":   "Mon - Thu 11:00AM - 9:30PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "Sun  11:30AM - 9:00PM",
+	"lat":         38.852168,
+	"long":        -94.395841 },
+
+
+{	"location":    "Douglas",
+	"streetAddr":  "1255 NE Douglas St",
+	"cityStateZip": "Lee's Summit, MO 64086",
+	"phone":       "(816) 524-4666",
+	"firstItem":   "Mon - Thu 11:00AM - 9:30PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "Sun  11:30AM - 9:00PM",
+	"lat":         38.934996,
+	"long":        -94.377852 },
+
+
+{	"location":    "Kearney",
+	"streetAddr":  "105 S Jefferson St",
+	"cityStateZip": "Kearney, MO 64060",
+	"phone":       "(816) 903-9922",
+	"firstItem":   "Mon - Thu 11:00AM - 9:30PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "Sun  11:30AM - 9:00PM",
+	"lat":         39.371913,
+	"long":        -94.361302 },
+
+
+{	"location":    "Independence",
+	"streetAddr":  "2325 S Route 291",
+	"cityStateZip": "Independence, MO 64057",
+	"phone":       "(816) 542-2722",
+	"firstItem":   "Mon - Thu 11:00AM - 9:30PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "Sun  11:30AM - 9:00PM",
+	"lat":         39.077302,
+	"long":        -94.378191 },
+
+
+{	"location":    "Smithville",
+	"streetAddr":  "101 N 169 Highway",
+	"cityStateZip": "Smithville, MO 64089",
+	"phone":       "(816) 873-3101",
+	"firstItem":   "Sun - Thu 11:00AM - 9:00PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "",
+	"lat":         39.389015,
+	"long":        -94.583564 },
+
+
+{	"location":    "US 40 Hwy",
+	"streetAddr":  "10839 E US 40 Hwy",
+	"cityStateZip": "Independence, MO 64055",
+	"phone":       "(816) 353-5100",
+	"firstItem":   "Sun - Thu 11:00AM - 9:00PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "",
+	"lat":         39.049675,
+	"long":        -94.449070 },
+
+
+{	"location":    "Shawnee",
+	"streetAddr":  "10901 W 75th Street",
+	"cityStateZip": "Shawnee, KS 66314",
+	"phone":       "(913) 217-7417",
+	"firstItem":   "Sun - Thu 11:00AM - 9:00PM",
+	"secondItem":  "Fri & Sat 11:00AM - 10:00PM",
+	"thirdItem":   "",
+	"lat":         38.992576,
+	"long":        -94.711808 }
+
+]
+
