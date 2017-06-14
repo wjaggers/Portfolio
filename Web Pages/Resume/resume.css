@@ -31,6 +31,7 @@
 	}
 
 	a {
+		clear:right;
 		float:right;
 		text-decoration: none;
 	}
@@ -41,6 +42,10 @@
 
 	a:hover, a:active {
 		color:#cccccc;
+	}
+
+	.summary {
+		clear:both;
 	}
 
 	.suminfo {
